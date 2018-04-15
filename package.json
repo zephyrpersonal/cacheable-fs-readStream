@@ -1,6 +1,7 @@
 {
   "name": "cacheable-fs-stream",
   "version": "1.0.0",
+  "keywords": ["stream", "node", "fs", "cache"],
   "description": "cache a fs readableStream",
   "main": "index.js",
   "repository": "git@github.com:zephyrpersonal/cacheable-fs-readStream.git",
